@@ -14,3 +14,29 @@ desktop-application
 gui
 java-project
 
+## 📸 Screenshots
+
+### Correct Answer
+![Correct Answer](correct_ans.png)
+
+### Wrong Answer
+![Wrong Answer](wrong_ans.png)
+
+### Use of All Lifelines
+![Lifelines](use_of_all_lifelines.png)
+
+### Skip Lifeline
+![Skip Lifeline](use_of_skip_lifeline.png)
+
+### Phone Call Lifeline
+![Phone Lifeline](use_of_phonecall_lifeline.png)
+
+### Audience Poll Lifeline
+![Audience Poll](use_of_audiancepoll_lifeline.png)
+
+### Final Output
+![Final Output](final_output.png)
+
+### Quitting the Game
+![Quit Game](Quiting_the_game.png)
+
