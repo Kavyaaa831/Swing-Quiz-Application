@@ -35,7 +35,13 @@ java-project
 ![Audience Poll Lifeline](screenshots/use_of_audiancepoll_lifeline/use_of_audiancepoll_lifeline.png)
 
 ### Final Output
-![Final Output](screenshots/final_output/final_output.png)
+![Final Output](screenshots/final_output/last_question_reward.png)
+
+### Final Output – Winning Screen
+![Winning Screen](screenshots/final_output/won.png)
 
 ### Quitting the Game
-![Quitting the Game](screenshots/Quiting_the_game/Quiting_the_game.png)
+![Quitting Game](screenshots/Quiting_the_game/Quitting_game.png)
+
+### Safe Zone Reward
+![Safe Zone Reward](screenshots/Quiting_the_game/safezone_reward.png)
