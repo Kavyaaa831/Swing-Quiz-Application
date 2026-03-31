@@ -45,3 +45,10 @@ java-project
 
 ### Safe Zone Reward
 ![Safe Zone Reward](screenshots/Quiting_the_game/safezone_reward.png)
+
+## Author
+Kavya B S
+
+##  Acknowledgement
+I would like to express my sincere gratitude to Raghu Sir for his guidance and support during the development of this project.
+
